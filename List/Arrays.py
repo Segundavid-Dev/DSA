@@ -6,7 +6,7 @@ import array
 
 
 # Pythons arrays are intialized using the array library
-new_array = array.array("f", [1,2,3])
+new_array = array.array("i", [1,2,3])
 print(new_array[0])
 
 # Take note: that the array type in python is just a wrapper of the C array type
